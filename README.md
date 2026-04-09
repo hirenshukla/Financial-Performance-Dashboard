@@ -63,7 +63,7 @@ This project presents an interactive Financial Dashboard built using Power BI. I
 ---
 
 📷 Dashboard Preview
-![Dashboard](C:\Users\user\Desktop\dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ---
 
